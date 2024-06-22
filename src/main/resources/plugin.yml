@@ -1,0 +1,4 @@
+name: BackDoor
+version: '${project.version}'
+main: me.hubailmn.plugin.Main
+api-version: '1.19'
